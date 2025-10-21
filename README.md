@@ -41,14 +41,6 @@ This benchmark suite is designed to measure the performance characteristics of A
    - Sustained throughput measurement
    - Efficiency metrics calculation
 
-### Documentation
-
-4. **logs.txt** - Complete research and implementation log
-   - Research findings and methodology
-   - Implementation details and design decisions
-   - Usage instructions and troubleshooting
-
-5. **README.md** - This file
 
 ## Quick Start
 
